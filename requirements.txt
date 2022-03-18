@@ -1,0 +1,8 @@
+pyttsx3
+gTTS
+playsound
+pygobject
+PyPDF2
+requests
+bs4
+beautifulsoup4
